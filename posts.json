@@ -1,0 +1,42 @@
+[
+    {
+        "title": "My Updated Post",
+        "content": "My First updated post!\r\n\r\nThis is exciting!",
+        "user_id": 1
+    },
+    {
+        "title": "My Second Updated Post",
+        "content": "My Second updated post!\r\n\r\nThis is exciting!",
+        "user_id": 2
+    },
+    {
+        "title": "Top 5 programming Language",
+        "content": "My First updated post!\r\n\r\nThis is exciting!",
+        "user_id": 3
+    },
+    {
+        "title": "Sublime text tips and tricks",
+        "content": "My First updated post!\r\n\r\nThis is exciting!",
+        "user_id": 4
+    },
+    {
+        "title": "Sublime text tips and tricks",
+        "content": "My First updated post!\r\n\r\nThis is exciting!",
+        "user_id": 4
+    },
+    {
+        "title": "Sublime text tips and tricks",
+        "content": "My First updated post!\r\n\r\nThis is exciting!",
+        "user_id": 4
+    },
+    {
+        "title": "Sublime text tips and tricks",
+        "content": "My First updated post!\r\n\r\nThis is exciting!",
+        "user_id": 4
+    },
+    {
+        "title": "Sublime text tips and tricks",
+        "content": "My First updated post!\r\n\r\nThis is exciting!",
+        "user_id": 4
+    }
+]
